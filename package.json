@@ -1,6 +1,6 @@
 {
   "name": "fabrique-log",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a simple logger-implementation to handle logging in fabrique.",
   "main": "index.js",
   "scripts": {
