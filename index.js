@@ -21,4 +21,4 @@
  IN THE SOFTWARE.
 
  */
-module.exports = require( "./impl/log/Console.log" );
+module.exports = require( "./impl/log/Console.js" );

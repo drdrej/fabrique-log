@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bc00039-4eb7-4b90-a849-8f5a09812a3d" name="Default" comment="" />
+    <list default="true" id="4bc00039-4eb7-4b90-a849-8f5a09812a3d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
+    </list>
     <ignored path="fabrique-log.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4bc00039-4eb7-4b90-a849-8f5a09812a3d" time="1367265779305" ignored="false" />
-    <file path="/index.js" changelist="4bc00039-4eb7-4b90-a849-8f5a09812a3d" time="1367266452804" ignored="false" />
+    <file path="/Dummy.txt" changelist="4bc00039-4eb7-4b90-a849-8f5a09812a3d" time="1367266751428" ignored="false" />
+    <file path="/index.js" changelist="4bc00039-4eb7-4b90-a849-8f5a09812a3d" time="1367266860996" ignored="false" />
+    <file path="$PROJECT_DIR$/../fabrique-model/index.js" changelist="4bc00039-4eb7-4b90-a849-8f5a09812a3d" time="1367266885600" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.0">
+            <state line="23" column="48" selection-start="1162" selection-end="1162" vertical-scroll-proportion="0.69572955">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -36,10 +39,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Console.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Console.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/impl/log/Console.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="2" selection-start="2778" selection-end="2778" vertical-scroll-proportion="0.93950176">
+            <state line="100" column="2" selection-start="2778" selection-end="2778" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -65,8 +68,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/impl/log/Console.js" />
+        <option value="$PROJECT_DIR$/index.js" />
       </list>
     </option>
   </component>
@@ -145,6 +148,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fabrique-model" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -249,18 +253,18 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.js">
+    <entry file="file://$PROJECT_DIR$/impl/log/Console.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.0">
+        <state line="100" column="2" selection-start="2778" selection-end="2778" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/impl/log/Console.js">
+    <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="2" selection-start="2778" selection-end="2778" vertical-scroll-proportion="0.93950176">
+        <state line="23" column="48" selection-start="1162" selection-end="1162" vertical-scroll-proportion="0.69572955">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
