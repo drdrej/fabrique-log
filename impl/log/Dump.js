@@ -12,14 +12,16 @@ var fs = require('fs');
 exports.dump = function( json, inPath, toFile ) {
 
     if( !_.isString(inPath) ) {
-        throw new Error( "Couldn't dump JSON to file." );
+        throw new Error( "Couldn't dump JSON to file. Needs inPath-param." );
     }
 
     if( !_.isString(toFile) ) {
         toFile = randomFile();
     }
 
+    var fileName = (inPath + "/" + toFile);
     var str = JSON.stringify(json, null, 4);
+
     fs.writeFile(fileName, str,
         function(err) {
             if(err) {

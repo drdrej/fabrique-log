@@ -102,7 +102,7 @@ var DEFAULT_LOGGER = new Log();
 
 module.exports = {
 	logger : DEFAULT_LOGGER,
-    dump   : require( "./Dump.js" )
+    dump   : require( "./Dump.js").dump
 };
 
 
