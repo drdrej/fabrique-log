@@ -101,7 +101,8 @@ Log.prototype.chapter = function( chapter ) {
 var DEFAULT_LOGGER = new Log();
 
 module.exports = {
-	logger : DEFAULT_LOGGER
+	logger : DEFAULT_LOGGER,
+    dump   : require( "./Dump.js" )
 };
 
 
