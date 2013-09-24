@@ -22,6 +22,10 @@ IN THE SOFTWARE.
 
 */
 
+
+/**
+ * @author A.Siebert / ask@touchableheroes.com
+ */
 function Log() {
    this.LOGGER_LINE_SIZE = 250;	
 };
@@ -99,3 +103,5 @@ var DEFAULT_LOGGER = new Log();
 module.exports = {
 	logger : DEFAULT_LOGGER
 };
+
+

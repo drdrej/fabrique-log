@@ -1,6 +1,6 @@
 {
   "name": "fabrique-log",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "a simple logger-implementation to handle logging in fabrique.",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "author": "drdrej",
   "license": "MIT",
   "gitHead": "66317826767ca115740aeed7d413e4841e38a853",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "underscore": "~1.5.2"
+  }
 }
